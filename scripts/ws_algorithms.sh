@@ -1,6 +1,6 @@
 #/bash/bin
 
-hyprctl dispatch workspace name:algorithms
+hyprctl dispatch workspace name:ALGORITHMS
 hyprctl dispatch exec kitty ~/Documents/the_prime_algorithms_course
 sleep 1
 hyprctl dispatch togglegroup
