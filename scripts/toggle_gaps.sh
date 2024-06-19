@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/bash
 
 GAPS_IN=$1
 GAPS_OUT=$2

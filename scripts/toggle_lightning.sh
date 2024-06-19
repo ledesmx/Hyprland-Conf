@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/bash
 
 COLOR_OFF="000000"
 COLOR_ON="FFFFFF"
