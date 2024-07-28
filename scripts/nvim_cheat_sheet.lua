@@ -39,6 +39,7 @@ ctrl + i	move forward
 {		move to the previous void line
 }		move to the next void line
 %		move to matching ([{
+%		create file from file explorer view
 v		start visual selection
 y		copy selected text
 y -> w, e, $	select and copy text
@@ -65,6 +66,7 @@ v -> :w xxx	write the selecttion to a new file
 :set hls	hlsearch - set highlight all matching phrases when searching
 :set is		incsearch - set increment search and show partial matches
 :close		closes the current windows but not neovim
+ʂ e       jajajsd
 ]]
 
 local command = 'echo "'
